@@ -1,2 +1,2 @@
 My second readme
-This is an update from Github.com
+This is an update from GitHub.com
