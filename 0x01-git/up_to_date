@@ -1,1 +1,1 @@
-echo "The information" > up_to_date
+echo 'the information' > up_to_date
